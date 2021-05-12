@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BOT</title>
+</head>
+<body>
+
+<h1>Soporte al Agente</h1>
+
+
+<script
+  id="purecloud-webchat-js"
+  type="text/javascript"
+  src="https://apps.mypurecloud.com/webchat/jsapi-v1.js"
+  region="us-east-1"
+  org-guid="c8bb9493-2b8c-415a-b7b1-44cef16960f8"
+  deployment-key="c267637f-993c-4ae4-b7bf-c417faf9e23e"
+></script>
+
+
+</body>
+</html>
